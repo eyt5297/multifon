@@ -1,3 +1,4 @@
+
 	Motivation:
 I've found only one working script for sending multifon SMS: https://github.com/vir/yate/wiki/Multifon-sms
 The main problem is it's based on heavy project YATE. It was need simpler solution.
